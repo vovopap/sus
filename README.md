@@ -1,11 +1,10 @@
 # Shog'ird Ustozdan So'radi.
 
-[](#salom)
-**Birinchi bo’lib qaysi dasturlash tilini o’rganay?**
+### Birinchi bo’lib qaysi dasturlash tilini o’rganay?
 
 Farqi yo’q. Quyidagi keng tarqalgan tillardan birini tanlang: C++, C#, Go, Python, Java, va JavaScript. Bir tilni yaxshi o’rganib olganingizdan keyin boshqa bir tilni o’rganish ancha osson bo’ladi.
 
-**Frontend yaxshimi yoki Backend yaxshimi? Kimga ko’proq pul to’lashadi?**
+### Frontend yaxshimi yoki Backend yaxshimi? Kimga ko’proq pul to’lashadi?
 
 Ikkovi ham yaxshi. Frontend ko’proq visual ish: Backenddan kelgan informatsiyani to’gri/chiroyli ko’rsatish va userdan informatsiyani to’gri yeg’ib Backendga jo’natish. Hali ham qaror qabul qila olmaydigan bo’lsangiz, tangadan foydalaning. Agar biri yoqmasa, keyin boshqasiga o’tib ketaverasiz. Yo’q, o’rganganlaringiz behudaga ketmaydi. Qancha oylik olishingiz ko’proq tajribangizga bog’liq.
 
