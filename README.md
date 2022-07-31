@@ -1,6 +1,6 @@
 # Shog'ird Ustozdan So'radi.
 
-### Birinchi bo’lib qaysi dasturlash tilini o’rganay?
+### Birinchi bo’lib qaysi dasturlash tilini o’rganay? {#birinchi-til}
 
 Farqi yo’q. Quyidagi keng tarqalgan tillardan birini tanlang: C++, C#, Go, Python, Java, va JavaScript. Bir tilni yaxshi o’rganib olganingizdan keyin boshqa bir tilni o’rganish ancha osson bo’ladi.
 
