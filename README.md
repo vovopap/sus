@@ -31,7 +31,7 @@ Boshida kitobdan o’rganishni maslahat bermayman. Boshida online resurslardan f
 Googledan qidirib ko’ring. Juda yaxshi roadmaplarni odamlar yozib chiqishgan. Masalan, [buni ko’ring](https://github.com/kamranahmedse/developer-roadmap)
 
 ### Menga mentor bo’lasimi?
-Yuq, lekin savollaringizga (sal kechikib bo’lsa ham) javob berishga harakat qilaman.
+Yo'q, lekin savollaringizga (sal kechikib bo’lsa ham) javob berishga harakat qilaman.
 
 ### Dasturlashni o’rgansam, 1 yilda qancha oylikga chiqolaman?
 Aniq aytolmayman. Pulni emas bilim va tajribani quving. Keyin, pulni o’zi sizi topib oladi.
@@ -41,3 +41,12 @@ Ertami kechmi o’rganishiz kerak bo’ladi. Shunday ekan xozirdan sekin-sekin b
 
 ### Dasturlashni yaxshi o’rganish uchun ingliz tili kerakmi?
 Ha. Mavjud foydali resurslarni ko’pi ingliz tilida. Ertami kechmi majbur o’rganishga bo’lasiz. Agar ingliz tilini ozgina bilsangiz, dasturlashni o’rganishni boshlasangiz bo’ladi. Agar umuman bilmasangiz, birinchi ingliz tilidan boshlashni maslahat beraman.
+
+### Websayt yaratsangiz, websaytizda ishlatilgan traffikdan (megabaytdan) pul topasimi?
+Yo'q. Traffikga ishlatgan hamma puliz internet/telefon providerizga ketadi. Xalixam tushinmadizmi? Hop. Tasavur qilaylik websayt bu bozordagi bir do'kon. Shu do'kondan non sotib olsangiz, bozorga borgani ishlatgan taxi puliz do'konchiga ketmaydi-ku. Websaytlar xam huddi shunday.
+
+### Dasturlashni o'rganmoqchiman. Laptopni qanaqasidan sotib olayin?
+Minimum 8GB RAM, 500GB SSD, Core i5. Agar sharoyitingiz bo'lmasa, ishlatilganidan oling.
+
+### Dasturlash uchun qaysi Operatsion Sistema yaxshi? Linux, Windows, yoki macOS?
+Tabingizga qarab.
