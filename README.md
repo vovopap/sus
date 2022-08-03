@@ -1,5 +1,8 @@
 # Shogird Ustozdan So'radi
 
+### Dasturlashni o'rganish uchun matematikani bilishim shartmi?
+Yo'q, shart emas. Lekin, bilsangiz sizga plyus.
+
 ### Birinchi bo’lib qaysi dasturlash tilini o’rganay
 Farqi yo’q. Quyidagi keng tarqalgan tillardan birini tanlang: C++, C#, Go, Python, Java, va JavaScript. Bir tilni yaxshi o’rganib olganingizdan keyin boshqa bir tilni o’rganish ancha osson bo’ladi.
 
