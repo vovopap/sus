@@ -12,7 +12,7 @@ Ikkovi ham yaxshi. Frontend ko’proq visual ish: Backenddan kelgan informatsiya
 ### Mobile developer bo’lmoqchiman, Android yaxshimi yoki iOS yaxshimi?
 Ikkovi ham birdek yaxshi. Agar tanla olmayotgan bo’lsangiz, tangadan foydalaning. Biri yoqmasa, keyin boshqasiga o’tsangiz bo’ladi. Yo’q, o’rganganlaringiz behudaga ketmaydi.
 
-### Javani bilsez, JavaScriptni o’rganish osson bo’ladimi?
+### Javani bilsangiz, JavaScriptni o’rganish osson bo’ladimi?
 Yo’q, ular umuman boshqa-boshqa narsalar.
 
 ### Web framework o’rganmoqchiman? React o’rganaymi yoki Angular? Vue.js-chi?
