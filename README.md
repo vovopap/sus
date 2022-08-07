@@ -45,7 +45,7 @@ Ertami kechmi o’rganishiz kerak bo’ladi. Shunday ekan xozirdan sekin-sekin b
 ### Dasturlashni yaxshi o’rganish uchun ingliz tili kerakmi?
 Ha. Mavjud foydali resurslarni ko’pi ingliz tilida. Ertami kechmi o’rganishga majbur bo’lasiz. Agar ingliz tilini ozgina bilsangiz, dasturlashni o’rganishni boshlasangiz bo’ladi. Agar umuman bilmasangiz, birinchi ingliz tilidan boshlashni maslahat beraman.
 
-### Websayt yaratsangiz, websaytizda ishlatilgan traffikdan (megabaytdan) pul topasimi?
+### Websayt yaratsangiz, websaytingizda ishlatilgan trafikdan (megabaytdan) pul topasimi?
 Yo'q. Traffikga ishlatgan hamma puliz internet/telefon providerizga ketadi. Xalixam tushinmadizmi? Hop. Tasavur qilaylik websayt bu bozordagi bir do'kon. Shu do'kondan non sotib olsangiz, bozorga borgani ishlatgan taxi puliz do'konchiga ketmaydi-ku. Websaytlar xam huddi shunday.
 
 ### Dasturlashni o'rganmoqchiman. Laptopni qanaqasidan sotib olayin?
