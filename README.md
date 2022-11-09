@@ -1,5 +1,14 @@
 # Shogird Ustozdan So'radi
 
+### Dasturlashni o’rganishni qachon boshlash kerak?
+Hozir.
+
+### Algoritm & data structure endi boshlamoqchi bo'lganlarga qanday maslahat berasiz, roadmap, qo'llanmalar?
+
+Men o’zim GitHubdagi [coding interview university](https://github.com/jwasham/coding-interview-university) reposidagi resurslardan foydalanganman. Bu yerda juda ko’p resurslar bor — o’rganib tugatish qiyin. Lekin boshidan boshlasangiz asosiy data strukturalar va konseptlar o'rganasiz, qolgani optional. 
+
+[O'zbekcha varianti](https://github.com/jwasham/coding-interview-university/blob/main/translations/README-uz.md) ham bor (men va bir do'stim bilan tarjima qilib chiqqanmiz).
+
 ### Dasturlashni o'rganish uchun matematikani bilishim shartmi?
 Yo'q, shart emas. Lekin, bilsangiz sizga plyus.
 
