@@ -3,7 +3,7 @@
 ### Dasturlashni o’rganishni qachon boshlash kerak?
 Hozir.
 
-### Algoritm & data structure endi boshlamoqchi bo'lganlarga qanday maslahat berasiz, roadmap, qo'llanmalar?
+### Algoritm & data strukturalarni endi boshlamoqchi bo'lganlarga qanday maslahat berasiz, roadmap, qo'llanmalar?
 
 Men o’zim GitHubdagi [coding interview university](https://github.com/jwasham/coding-interview-university) reposidagi resurslardan foydalanganman. Bu yerda juda ko’p resurslar bor — o’rganib tugatish qiyin. Lekin boshidan boshlasangiz asosiy data strukturalar va konseptlar o'rganasiz, qolgani optional. 
 
