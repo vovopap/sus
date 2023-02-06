@@ -71,6 +71,6 @@ Umumiy aytganda bir savol ustida 1-2 soatcha vaqt ajratib, undan keyin javobini 
 
 Agar umuman yecha olmayotgan bo'lsangiz balki asosiy bilimlaringiz yetishmayotgandir? Basic algoritmlar va data strukturalarni ko'rib chiqing.
 
-### Google qilish toʻgʻri yoʻlmi? Har safar google qilishga oʻrganib qolmaymizmi?
+### Google qilish to'g'ri yo'lmi? Har safar google qilishga o'rganib qolmaymizmi?
 
 Ha, to'g'ri yo'l. Aslida ham shunday bo'lishi kerak: har safar google qilishga o'rganishingiz kerak.
