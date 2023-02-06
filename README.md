@@ -70,3 +70,7 @@ Tabingizga qarab.
 Umumiy aytganda bir savol ustida 1-2 soatcha vaqt ajratib, undan keyin javobini tekshirib ko'rsa yaxshi bo'ladi. Leetcodeni easy savollari boshida qiyin tuyulishi normal xolat. Easy savollarni yechishda davom etavering. 70-100 easy yechganingizdan keyin mediumga o'tsangiz bo'ladi. Omad!
 
 Agar umuman yecha olmayotgan bo'lsangiz balki asosiy bilimlaringiz yetishmayotgandir? Basic algoritmlar va data strukturalarni ko'rib chiqing.
+
+### Google qilish toʻgʻri yoʻlmi? Har safar google qilishga oʻrganib qolmaymizmi?
+
+Ha, to'g'ri yo'l. Aslida ham shunday bo'lishi kerak: har safar google qilishga o'rganishingiz kerak.
